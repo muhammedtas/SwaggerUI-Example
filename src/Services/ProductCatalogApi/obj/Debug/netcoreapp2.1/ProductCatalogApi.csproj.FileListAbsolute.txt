@@ -1,0 +1,14 @@
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.1\ProductCatalogApi.deps.json
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.1\ProductCatalogApi.runtimeconfig.json
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.1\ProductCatalogApi.runtimeconfig.dev.json
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.1\ProductCatalogApi.dll
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\bin\Debug\netcoreapp2.1\ProductCatalogApi.pdb
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.csprojAssemblyReference.cache
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.csproj.CoreCompileInputs.cache
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.RazorAssemblyInfo.cache
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.RazorAssemblyInfo.cs
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.AssemblyInfoInputs.cache
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.AssemblyInfo.cs
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.RazorTargetAssemblyInfo.cache
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.dll
+C:\CoreDeployment\SalEasy\src\Services\ProductCatalogApi\obj\Debug\netcoreapp2.1\ProductCatalogApi.pdb
